@@ -12,13 +12,15 @@ Git Bash was used to load the repo into Visual Studio Code, set up a virtual env
 ### **Data Exploration**
 
 -  Document Dataset found at https://www.kaggle.com/datasets/arslankas/guitars
--  Created explore.ipynb file
+-  Created  file
 -  Preview the dataset with Pandas
     1. list columns
     2. get the number of rows
     3. check the data types for each column
     4. see if any records are missing
     5. preview the dataframe
+
+    
 
 
 ### **Develop Questions**
@@ -55,9 +57,18 @@ $1738,34
 -  Another bar graph that shows the average price using Pandas and Numpy
 
 
-### ** Run the Programs**
+### ** Run the Program**
 
--  Currently the only thing that has to be done is to open the .ipynb file you want to see and click the run all command button in VS Code. 
+1. Fork the repository from GitHub
+2. Clone the repository
+3. Create a virtual environment (python3 -m venv venv)
+4. Open the virtual environment ( source venv/Scripts/activate - using gitbash with Windows)
+5. Install libraries (pip install -r requirements.txt)
+6. Go into the .ipynb that you want to analyze and run all.
+7. If any changes need to be made use git add file
+8. git commit -m comment
+9. git push
+
 
 
 
