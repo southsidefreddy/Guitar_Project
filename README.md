@@ -52,7 +52,7 @@ $1738,34
 
 ### **Plotting the Data**
 
--  Created a ployt.ipynb file
+-  Created a plot.ipynb file
 -  Created a bar graph that tells us who has the most/least expensive guitar prices using Pandas ann Numpy.
 -  Another bar graph that shows the average price using Pandas and Numpy
 
