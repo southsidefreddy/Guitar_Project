@@ -2,7 +2,7 @@
 
 ##  **About**
 
-This is the final project for the Code Louisville Data Analytics level 1 eduction program.  The goal of it is to use all of the python features that were taught during the course. It will be designed to display the basics of performing a data analysis at a foundational level. The topic is popular guitar makes and models. After a dataframe is loaded imported into the machine the data analysis process will begin.
+This is the final project for the Code Louisville Data Analytics level 1 eduction program.  The goal of it is to use all of the python features that were taught during the course. It will be designed to display the basics of performing a data analysis at a foundational level. The topic is popular guitar makes and models. After a dataframe is imported into the machine the data analysis process will begin.
 
 Git Bash was used to load the repo into Visual Studio Code, set up a virtual environment, and install the requirements.txt for the data analysis.
 
@@ -12,7 +12,7 @@ Git Bash was used to load the repo into Visual Studio Code, set up a virtual env
 ### **Data Exploration**
 
 -  Document Dataset found at https://www.kaggle.com/datasets/arslankas/guitars
--  Created  file
+-  Created .ipynb file
 -  Preview the dataset with Pandas
     1. list columns
     2. get the number of rows
@@ -53,11 +53,11 @@ $1738,34
 ### **Plotting the Data**
 
 -  Created a plot.ipynb file
--  Created a bar graph that tells us who has the most/least expensive guitar prices using Pandas ann Numpy.
+-  Created a bar graph that tells us who has the most/least expensive guitar prices using Pandas and Numpy.
 -  Another bar graph that shows the average price using Pandas and Numpy
 
 
-### ** Run the Program**
+### **Run the Program**
 
 1. Fork the repository from GitHub
 2. Clone the repository
