@@ -2,7 +2,7 @@
 
 ##  **About**
 
-This is the final project for the Code Louisville Data Analytics level 1 eduction program.  The goal of it is to use all of the python features that were taught during the course. It will be designed to display the basics of performing a data analysis at a foundational level. The topic is popular guitar makes and models. After a dataframe is imported into the machine the data analysis process will begin.
+This is the final project for the Code Louisville Data Analytics level 1 education program.  The goal of it is to use all of the python features that were taught during the course. It will be designed to display the basics of performing a data analysis at a foundational level. The topic is popular guitar makes and models. After a dataframe is imported into the machine the data analysis process will begin.
 
 Git Bash was used to load the repo into Visual Studio Code, set up a virtual environment, and install the requirements.txt for the data analysis.
 
